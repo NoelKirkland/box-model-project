@@ -1,6 +1,17 @@
+.header {
+  border: 2px solid rgb(99, 100, 82);
+  padding: 4px;
+  background-color: rgb(207, 126, 21);
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 30%;
+  margin-left: 30px;
+}
+
 .my-class {
   border: 2px solid rgb(99, 100, 82);
   padding: 4px;
   margin: 12px;
   background-color: rgb(207, 126, 21);
 }
+
