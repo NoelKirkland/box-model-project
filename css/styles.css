@@ -1,5 +1,5 @@
-.header {
-  border: 2px solid rgb(99, 100, 82);
+.header{
+  border: 2px sol;
   padding: 4px;
   background-color: rgb(207, 126, 21);
   margin-top: 15px;
@@ -15,3 +15,16 @@
   background-color: rgb(207, 126, 21);
 }
 
+img {
+  max-width: 400px;
+  height: auto;
+}
+
+.sidebar {
+  float: right;
+  border: 5px black;
+  padding: 10px;
+  border-radius: 25px;
+  background-color: gray;
+  padding-top: 1px;
+}
